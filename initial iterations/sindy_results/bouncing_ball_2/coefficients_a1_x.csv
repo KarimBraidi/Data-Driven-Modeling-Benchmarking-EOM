@@ -1,0 +1,4 @@
+feature,coefficient
+q2_dot q3_dot,0.06339010259328058
+cos(q3)*q1_dot q3_dot,-0.09602992356818957
+cos(q3)*q3_dot^2,0.07247915679613404

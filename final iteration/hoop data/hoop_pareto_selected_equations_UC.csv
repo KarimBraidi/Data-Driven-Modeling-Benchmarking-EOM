@@ -1,0 +1,4 @@
+dof,algorithm,run,library,optimizer,threshold,ATE,R2_val,R2_test,MSE_test,n_terms,tradeoff_score,equation
+a_x,SINDy,run_2,UC,LASSO,0.005,0.0520870510020376,0.9871250429404662,0.9811587272523936,21.765062075447272,34,0.1531986531986532,0.7217 sin(psi) + -39.1942 sin(phi)*sin(psi) + -21.4880 sin(theta)*cos(psi) + 0.1603 cos(theta)*cos(psi) + -0.2209 zddot + 0.2524 ydot*wy + -0.4755 ydot*wz + 0.4095 zdot*wy + -0.0935 zdot*wz + -0.9222 wx*wx*z + 0.4511 wy*wy*x + 0.2965 wy*wy*y + -0.2193 wy*wy*z + -0.0349 wz*wz*z + -0.0092 wx*wz*z + 0.7013 alphay*z + -0.4353 alphaz*x + -0.9303 alphaz*z + -0.8278 sin(phi)*ydot*wy + 0.1267 sin(phi)*ydot*wz
+a_y,SINDy,run_5,UC,STLSQ,0.3,0.1886308193642192,0.953799901625956,0.9643005788748652,50.487231262266526,1,0.15151515151515152,1.2281 cos(phi)*xdot*wz
+a_z,SINDy,run_5,UC,LASSO,0.2,0.3204239956438576,0.4568008088420655,0.3140913721734925,8.858942696108604,2,0.07,-0.0627 xddot + -0.0132 sin(theta)*ydot*wx

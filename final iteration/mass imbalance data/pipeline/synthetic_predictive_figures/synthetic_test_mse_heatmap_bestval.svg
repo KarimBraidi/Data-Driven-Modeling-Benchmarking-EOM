@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="470" viewBox="0 0 850 470">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="425.0" y="34" font-family="Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#111">Synthetic Test MSE by Algorithm and Regime</text>
+<text x="425.0" y="58" font-family="Arial, sans-serif" font-size="12" font-weight="400" text-anchor="middle" fill="#444">Mean log10(test MSE), averaged over xddot, yddot, and thetaddot</text>
+<text x="262.5" y="87" font-family="Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle" fill="#111">Bouncing</text>
+<text x="427.5" y="87" font-family="Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle" fill="#111">Rolling</text>
+<text x="592.5" y="87" font-family="Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle" fill="#111">Flight</text>
+<text x="164" y="150.0" font-family="Arial, sans-serif" font-size="13" font-weight="700" text-anchor="end" fill="#111">SINDy</text>
+<rect x="180" y="105" width="165" height="80" fill="#bd7772" stroke="#ffffff" stroke-width="2"/>
+<text x="262.5" y="150.0" font-family="Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#111">-8.71</text>
+<rect x="345" y="105" width="165" height="80" fill="#fff7ec" stroke="#ffffff" stroke-width="2"/>
+<text x="427.5" y="150.0" font-family="Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#111">-16.00</text>
+<rect x="510" y="105" width="165" height="80" fill="#952a28" stroke="#ffffff" stroke-width="2"/>
+<text x="592.5" y="150.0" font-family="Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#111">-4.26</text>
+<text x="164" y="230.0" font-family="Arial, sans-serif" font-size="13" font-weight="700" text-anchor="end" fill="#111">Hybrid SINDy</text>
+<rect x="180" y="185" width="165" height="80" fill="#c68882" stroke="#ffffff" stroke-width="2"/>
+<text x="262.5" y="230.0" font-family="Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#111">-9.67</text>
+<rect x="345" y="185" width="165" height="80" fill="#c48680" stroke="#ffffff" stroke-width="2"/>
+<text x="427.5" y="230.0" font-family="Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#111">-9.53</text>
+<rect x="510" y="185" width="165" height="80" fill="#830707" stroke="#ffffff" stroke-width="2"/>
+<text x="592.5" y="230.0" font-family="Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#111">-2.28</text>
+<text x="164" y="310.0" font-family="Arial, sans-serif" font-size="13" font-weight="700" text-anchor="end" fill="#111">Lagrangian SINDy</text>
+<rect x="180" y="265" width="165" height="80" fill="#810303" stroke="#ffffff" stroke-width="2"/>
+<text x="262.5" y="310.0" font-family="Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#111">-2.04</text>
+<rect x="345" y="265" width="165" height="80" fill="#ac5652" stroke="#ffffff" stroke-width="2"/>
+<text x="427.5" y="310.0" font-family="Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#111">-6.79</text>
+<rect x="510" y="265" width="165" height="80" fill="#7f0000" stroke="#ffffff" stroke-width="2"/>
+<text x="592.5" y="310.0" font-family="Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#111">-1.87</text>
+<text x="425.0" y="446" font-family="Arial, sans-serif" font-size="12" font-weight="400" text-anchor="middle" fill="#555">Configurations selected by minimum validation MSE; displayed metrics are test-set values averaged over DOFs.</text>
+</svg>

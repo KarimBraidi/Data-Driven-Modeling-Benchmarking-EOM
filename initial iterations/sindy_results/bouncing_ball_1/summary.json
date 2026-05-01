@@ -1,0 +1,26 @@
+{
+  "dataset": "bouncing_ball_1",
+  "path": "mass imbalance data/mass imbalance data/Bouncing ball data/hula_hoop_2026-03-14_13-07-44/",
+  "equations": {
+    "a1_x": "+ 0.104053*cos(q3)*q3_dot^2 + 0.065478*cos(q3)*q3_dot a2_y",
+    "a2_y": "+ 2597946151.929143*cos(q3)*q2 a3_theta - 467630302.353406*cos(q3)*a3_theta - 4247250.066215*a1_x a3_theta - 764505.934701*a3_theta^2 + 31.463683*q1_dot a3_theta - 26.339617*cos(q3)*q2_dot a3_theta - 24.074799*a1_x^2 - 17.939955*sin(q3)*a1_x^2 + 17.520889*q2 q1_dot - 11.789619*cos(q3)*a1_x^2 + 11.625296*sin(q3)*q1_dot a1_x + 8.595040*sin(q3)*q1 q3_dot - 5.063958*sin(q3)*q3_dot - 3.432783*sin(q3)*q1_dot^2 - 2.761962*sin(q3)*q3_dot a3_theta - 2.732166*cos(q3)*q3_dot a3_theta + 2.476725*q3_dot a3_theta + 2.179267*q2 q3_dot + 2.092557*sin(q3)*q3 q3_dot - 1.356098*q2_dot^2 + 0.969402*sin(q3)*q2_dot^2 - 0.440489*q2 q3",
+    "a3_theta": "0"
+  },
+  "metrics": {
+    "a1_x": {
+      "R2": 0.9116073422423324,
+      "RMSE": 0.033478158692385886,
+      "MAE": 0.024555299543252432
+    },
+    "a2_y": {
+      "R2": 0.9845572423257507,
+      "RMSE": 0.06476346927437737,
+      "MAE": 0.021898732389377538
+    },
+    "a3_theta": {
+      "R2": -0.40748867207576134,
+      "RMSE": 0.5707986698263371,
+      "MAE": 0.31407736066997444
+    }
+  }
+}

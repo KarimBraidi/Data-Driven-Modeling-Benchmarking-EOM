@@ -1,0 +1,17 @@
+# Generated pipeline output runs
+hoop data/outputs/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Zip archives
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db

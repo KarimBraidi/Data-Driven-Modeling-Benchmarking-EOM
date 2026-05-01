@@ -1,0 +1,1 @@
+# SINDy EOM Discovery Pipeline

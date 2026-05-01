@@ -1,0 +1,3 @@
+feature,coefficient
+cos(q3)*q3_dot^2,0.10405256741519116
+cos(q3)*q3_dot a2_y,0.06547831250083933
